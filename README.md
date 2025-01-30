@@ -15,4 +15,4 @@ Se você deseja contribuir ou tem sugestões, fique à vontade para abrir um **P
 ---
 
 📌 **Como acessar os EPUBs?**  
-Você pode visualizar os livros diretamente através do nosso **[Leitor de EPUB "Em desenvolvimento"](https://seuusuario.github.io/epub-CC/)**.
+Você pode visualizar os livros diretamente através do nosso **[Leitor de EPUB "Em desenvolvimento"](https://mxt0.github.io/epub-CC/)**.
